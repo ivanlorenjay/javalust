@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SwitchCase/SwitchCase.iml" filepath="$PROJECT_DIR$/SwitchCase/SwitchCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buclesFor/buclesFor.iml" filepath="$PROJECT_DIR$/buclesFor/buclesFor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/condicionalesAnidadas/condicionalesAnidadas.iml" filepath="$PROJECT_DIR$/condicionalesAnidadas/condicionalesAnidadas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/errores/errores.iml" filepath="$PROJECT_DIR$/errores/errores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estructurasCondicionales/estructurasCondicionales.iml" filepath="$PROJECT_DIR$/estructurasCondicionales/estructurasCondicionales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloWorld/helloWorld.iml" filepath="$PROJECT_DIR$/helloWorld/helloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operadoresAritmeticos/operadoresAritmeticos.iml" filepath="$PROJECT_DIR$/operadoresAritmeticos/operadoresAritmeticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operadoresRelacionales/operadoresRelacionales.iml" filepath="$PROJECT_DIR$/operadoresRelacionales/operadoresRelacionales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scannerLib/scannerLib.iml" filepath="$PROJECT_DIR$/scannerLib/scannerLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiposDeDatos/tiposDeDatos.iml" filepath="$PROJECT_DIR$/tiposDeDatos/tiposDeDatos.iml" />
+    </modules>
+  </component>
+</project>
